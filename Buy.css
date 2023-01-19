@@ -1,0 +1,462 @@
+.container{
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position:relative;
+    display:flex;
+}
+.bar{
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 88px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position:absolute;
+}
+.img_logo{
+    top: 24px;
+    left: 62px;
+    width: 119px;
+    height: 40px;
+    background: transparent url('img/logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position:absolute;
+}
+.hover1{
+    top: 34px;
+    left: 786px;
+    width: 32px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #F9C745;
+    opacity: 1;
+    position:absolute;
+}
+.hover2{
+    top: 34px;
+    left: 866px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position:absolute;
+}
+.hover3{
+    top: 34px;
+    left: 978px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position:absolute;
+}
+.hover4{
+    top: 34px;
+    left: 1090px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position:absolute;
+}
+.hover5{
+    top: 26px;
+    left: 1204px;
+    width: 176px;
+    height: 38px;
+    background: #F9C745 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    opacity: 1;
+    position: absolute;
+}
+.hover5_wrd{
+    top: 34px;
+    left: 1252px;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.bg1{
+    top: 88px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.bg2{
+    top: 88px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg3{
+    top: 88px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg4{
+    top: 388px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg5{
+    top: 388px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg6{
+    top: 388px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg7{
+    top: 688px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg8{
+    top: 688px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg9{
+    top: 688px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg10{
+    top: 988px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg11{
+    top: 988px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg12{
+    top: 988px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg13{
+    top: 1288px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg14{
+    top: 1288px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg15{
+    top: 1288px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg16{
+    top: 1588px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg17{
+    top: 1588px;
+    left: 500px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.bg18{
+    top: 1588px;
+    left: 1000px;
+    width: 500px;
+    height: 300px;
+    background: transparent url('img/lightpaperfibers.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.banner{
+    top: 88px;
+    left: 0px;
+    width: 1440px;
+    height: 288px;
+    background: transparent url('img/banner.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.infor{
+    top: 456px;
+    left: 284px;
+    width: 872px;
+    height: 969px;
+    opacity: 1;
+    position: absolute;
+}
+.infor_wrd{
+    top: 500px;
+    left: 648px;
+    width: 144px;
+    height: 33px;
+    text-align: center;
+    font: normal normal bold 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.firstname{
+    top: 604px;
+    left: 316px;
+    width: 32px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.lastname{
+    top: 604px;
+    left: 732px;
+    width: 32px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+
+.rectangle04{
+    top: 1660px;
+    left: 0px;
+    width: 1440px;
+    height: 223px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.yellowline{
+    top: 1660px;
+    left: 0.5px;
+    width: 1440px;
+    height: 0px;
+    border: 3px solid #F9C745;
+    opacity: 1;
+    position: absolute;
+}
+.link01{
+    top: 1708px;
+    left: 232px;
+    width: 200px;
+    height: 127px;
+    background: transparent url('img/link01.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.link02{
+    top: 1719px;
+    left: 744px;
+    width: 200px;
+    height: 105px;
+    background: transparent url('img/link02.png') 0% 0% no-repeat padding-box;
+    border-radius: 53px;
+    opacity: 1;
+    position: absolute;
+}
+.link01_wrd01{
+    top: 1715px;
+    left: 456px;
+    width: 144px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.link01_wrd02{
+    top: 1753px;
+    left: 456px;
+    width: 240px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.link02_wrd01{
+    top: 1715px;
+    left: 968px;
+    width: 144px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.link01_wrd02{
+    top: 1753px;
+    left: 968px;
+    width: 240px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.link01_btn{
+    top: 1789px;
+    left: 456px;
+    width: 176px;
+    height: 44px;
+    border: 1px solid #3A3A3A;
+    border-radius: 23px;
+    opacity: 1;
+    position: absolute;
+}
+.link02_btn{
+    top: 1791px;
+    left: 968px;
+    width: 176px;
+    height: 44px;
+    border: 1px solid #3A3A3A;
+    border-radius: 23px;
+    opacity: 1;
+    position: absolute;
+}
+.link01_btn_wrd{
+    top: 1797px;
+    left: 504px;
+    width: 80px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.link02_btn_wrd{
+    top: 1799px;
+    left: 1016px;
+    width: 80px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    position: absolute;
+}
+.blackrectangle{
+    top: 1885px;
+    left: -2px;
+    width: 1444px;
+    height: 70px;
+    background: #3A3A3A 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+.blackrec_wrd{
+    top: 1909px;
+    left: 556px;
+    width: 328px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
